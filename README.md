@@ -16,7 +16,13 @@
 3. Complete the assignment below
 
 ## Example
-The web page shows a music festival announcement.
+The web page shows a menu for Lomeli's Restaurant
+- The font color of the vegetarian items is “SeaGreen”
+- The font color of the section headers is “LightCoral”
+- The “Penne al Forno” should have the ID crowd-favorite.
+- Add a CSS rule to style it so that it is italic and the font is red (hint: look into font-style)
+- The “Tomato Gnocchi” has the ID new
+- Add a CSS rule to style it so that it has the font color orange
 
 
 ## Assignment
